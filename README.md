@@ -2,7 +2,7 @@
 
 An enhanced rofi menu for managing wifi connections.
 
-This menu was written to enhance the functionalities of [rofi-wifi-menu](https://github.com/zbaylin/rofi-wifi-menu). The original implementation lacked functionalities, which seemed crucial to the author.
+This menu was written to enhance the functionalities of [rofi-wifi-menu](https://github.com/zbaylin/rofi-wifi-menu). The original implementation lacked functionalities, which seemed crucial to the author. Note that the [theming](https://github.com/DaveDavenport/rofi-themes) of rofi is left to the user; the script takes the config file as an input. We provided a dmenu-like theme in the repo.
 
 ## Features
 
