@@ -27,7 +27,7 @@ A birds eye view of provided features:
 
 ## Selecting a discovered network
 
-When the user selects a discovered network, the script first checks if there already exists a connection with a matching name. If one does, the user is connected to it and the menu exits. If there are multiple existing connections for the same SSID, usually labeled \<SSID\> \<num\>, the user is prompted with a menu for selecting one of them. If the connection does not exist, the user is guided through the process of creating it; different forms of securities have different procedures. Upon completion, the user is connected.
+When the user selects a discovered network, the script first checks if there already exists a connection with a matching name. If one does, the user is connected to it and the menu exits. If there are multiple existing connections for the same SSID, usually labeled \<SSID\> \<num\>, the user is prompted with a menu for selecting one of them. If the connection does not exist, the user is guided through the process of creating it; different forms of securities have different procedures. Upon completion, the user is connected. If multiple WiFi devices are present, the user is prompted to choose one.
 
 ## Usage
 
