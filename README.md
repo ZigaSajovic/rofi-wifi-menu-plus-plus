@@ -1,6 +1,6 @@
 # rofi-wifi-menu++
 
-An enhanced rofi menu for managing wifi connections.
+An enhanced rofi menu for managing WiFi connections.
 
 This menu was written to enhance the functionalities of [rofi-wifi-menu](https://github.com/zbaylin/rofi-wifi-menu). The original implementation lacked functionalities, which seemed crucial to the author. Note that the [theming](https://github.com/DaveDavenport/rofi-themes) of rofi is left to the user; see [usage](#usage).
 ## Features
