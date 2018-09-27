@@ -22,7 +22,7 @@ A birds eye view of provided features:
   * manual creation of wifi connections (ex. for hidden networks)
     * NOTE: if one already exists for the manually entered SSID, the user is simply connected to it, and a duplicate is not created
   * correct handling of cases where the user has multiple options
-    * multiple existing connections for the same SSID usually labeled <SSID> <num>, by the Network Manager
+    * multiple existing connections for the same SSID usually labelled <SSID> <num>, by the Network Manager
     * multiple wifi devices on the machine
 
 ## Selecting a discovered network
