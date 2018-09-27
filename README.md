@@ -33,7 +33,7 @@ When the user selects a discovered network, the script first checks if there alr
 
 The script is ran with a parameter, which specifies the path to the rofi theme to be used. Provided on the repo is a simple config, emulating the dmenu theme.
 
-    ./rofi_wifi_menu++.zsh /path/to/rofi/theme.rasi
+    ./rofi_wifi_menu++ /path/to/rofi/theme.rasi
 
 ## Requirements 
 
